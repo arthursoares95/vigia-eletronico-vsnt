@@ -1,0 +1,9 @@
+Modelo,Classe,TP,FP,FN,Precisão (%),Recall (%),F1 (%)
+YOLOv8,Embarcação,61,1,4,98.4,93.8,96.1
+YOLOv8,Pessoa,15,1,1,93.8,93.8,93.8
+YOLO11,Embarcação,61,1,4,98.4,93.8,96.1
+YOLO11,Pessoa,15,3,1,83.3,93.8,88.2
+YOLO26,Embarcação,55,10,10,84.6,84.6,84.6
+YOLO26,Pessoa,16,0,0,100.0,100.0,100.0
+SSD300,Embarcação,45,0,20,100.0,69.2,81.8
+SSD300,Pessoa,14,4,2,77.8,87.5,82.4
