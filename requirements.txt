@@ -1,4 +1,4 @@
-ultralytics==8.4.117
+ultralytics==8.4.174
 torch
 torchvision
 opencv-python
